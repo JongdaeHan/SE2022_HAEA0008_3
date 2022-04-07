@@ -1,0 +1,21 @@
+[submodule "Software-Engineering-1-Team"]
+	path = Software-Engineering-1-Team
+	url = https://github.com/guitarcode/Software-Engineering-1-Team
+[submodule "sogong-yug"]
+	path = sogong-yug
+	url = https://github.com/HaeGyeongPark/sogong-yug.git
+[submodule "SEP"]
+	path = SEP
+	url = https://github.com/SoftwareEngineering05/SEP
+[submodule "SE2022_3_3"]
+	path = SE2022_3_3
+	url = https://github.com/tmdgh1592/SE2022_3_3
+[submodule "SE_7"]
+	path = SE_7
+	url = https://github.com/choign3123/SE_7
+[submodule "2022-SW-Engineering"]
+	path = 2022-SW-Engineering
+	url = https://github.com/4nchor/2022-SW-Engineering
+[submodule "2022_SW_Engineering_4"]
+	path = 2022_SW_Engineering_4
+	url = https://github.com/taipaise/2022_SW_Engineering_4.git
