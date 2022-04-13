@@ -19,3 +19,6 @@
 [submodule "2022_SW_Engineering_4"]
 	path = 2022_SW_Engineering_4
 	url = https://github.com/taipaise/2022_SW_Engineering_4.git
+[submodule "SoftwareEngineering"]
+	path = SoftwareEngineering
+	url = https://github.com/JeongWhale/SoftwareEngineering
